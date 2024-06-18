@@ -10,7 +10,20 @@ Hi there! 👋 I'm Irusha Malalgoda, an Infrastructure Specialist with over 3 ye
 - Cloud Platforms (Azure, AWS)
 - Virtualization (VMware, Hyper-V)
 - Networking
- 
+
+## Technologies
+
+- System Administration
+- Incident Handling
+- Python 
+- PowerShell
+- PowerCLI
+- Ansible
+- Azure 
+- VMware
+- Networking
+- Storage Arrays
+- Terraform
 <div>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -35,20 +48,6 @@ Hi there! 👋 I'm Irusha Malalgoda, an Infrastructure Specialist with over 3 ye
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>  
 </div>  
 <br/>  
-
-## Technologies
-
-- System Administration
-- Incident Handling
-- Python 
-- PowerShell
-- PowerCLI
-- Ansible
-- Azure 
-- VMware
-- Networking
-- Storage Arrays
-- Terraform
 
 ## Certifications
 
