@@ -52,8 +52,11 @@ Hi there! 👋 I'm Irusha Malalgoda, an Infrastructure Specialist with over 3 ye
 ## Certifications
 
 - ITIL 4 Service Management 🌟
-- RedHat Ansible Certified Specialist 🌟
 - Terraform Associate 🌟
+- Fundamentals of Ansible by RedHat (Coursera) 🌟
+- Introduction to DevOps and Site Reliability Engineering 🌟
+- IFS Learning Achievement - assyst Essentials 🌟
+- M001: MongoDB Basics 🌟
 
 ## Education
 
