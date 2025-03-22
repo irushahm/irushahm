@@ -19,8 +19,12 @@ Hi there! 👋 I'm Irusha Malalgoda, an Infrastructure Specialist with over 3 ye
 - PowerShell
 - PowerCLI
 - Ansible
-- Azure 
+- Azure
+- AWS 
 - VMware
+- Containerization
+- Docker
+- Kubernetes
 - Networking
 - Storage Arrays
 - Terraform
@@ -52,6 +56,7 @@ Hi there! 👋 I'm Irusha Malalgoda, an Infrastructure Specialist with over 3 ye
 ## Certifications
 
 - ITIL 4 Service Management 🌟
+- Certified Kubernetes Administrator (CKA)🌟
 - Terraform Associate 🌟
 - Fundamentals of Ansible by RedHat (Coursera) 🌟
 - Introduction to DevOps and Site Reliability Engineering 🌟
