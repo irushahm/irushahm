@@ -1,6 +1,6 @@
 # Irusha Malalgoda
 
-Hi there! 👋 I'm Irusha Malalgoda, an Infrastructure Specialist with over 3 years of experience in IT and cloud infrastructure. I'm passionate about automation, cloud technologies, and sharing knowledge to help others in tech.
+Hi there! 👋 I'm Irusha Malalgoda, an Infrastructure Specialist with over 4 years of experience in IT and cloud infrastructure. I'm passionate about automation, cloud technologies, and sharing knowledge to help others in tech.
 
 ## Expertise
 
